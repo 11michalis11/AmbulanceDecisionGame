@@ -16,5 +16,5 @@ dependencies:
   - dask==2021.3.0
   - pip:
       - ciw==2.1.0
-      - nashpy==0.0.19
+      - nashpy==0.0.23
 prefix: C:\Users\micha\Anaconda3\envs\AmbulanceGame
